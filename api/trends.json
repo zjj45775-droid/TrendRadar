@@ -1,27 +1,133 @@
 {
-  "generated_at": "2026-11-25T00:47:07.392996+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-11-25T09:14:26.238405+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT DeepSeek 大模型 AIGC 文生图 文生视频 视频生成 可灵 即梦 Sora",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "【焦点复盘】普涨反弹后市场现放量分歧，个股炸板率超五成，物理AI概念持续火热",
-          "url": "https://www.cls.cn/detail/2543050",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
-        },
         {
           "title": "AI 短剧《丑狐》爆火后引发大量讨论，它能戳中观众的核心原因是什么？",
           "url": "https://www.zhihu.com/question/2108451365806776772",
           "source": "知乎",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
+        },
+        {
+          "title": "高志凯称欧洲在人工智能发展中的作用几乎是零，这一观点是否站得住脚？",
+          "url": "https://www.zhihu.com/question/2104246988380418941",
+          "source": "知乎",
+          "ranks": [
+            19,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
+        },
+        {
+          "title": "美股收盘：AI交易疑虑重燃 英伟达跌近6% Anthropic跌破发行价",
+          "url": "https://www.cls.cn/detail/2543493",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "AI换脸还没完AI融脸又来了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%8D%A2%E8%84%B8%E8%BF%98%E6%B2%A1%E5%AE%8CAI%E8%9E%8D%E8%84%B8%E5%8F%88%E6%9D%A5%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "消息称两大AI巨头员工拉响警报：模型过于强大，或难以公开发布",
+          "url": "https://www.cls.cn/detail/2543264",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
+        },
+        {
+          "title": "病毒吧曝假deepseek藏银狐木马",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
+        },
+        {
+          "title": "AI剧 人类消失后的大肥鱼",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%89%A7%20%E4%BA%BA%E7%B1%BB%E6%B6%88%E5%A4%B1%E5%90%8E%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
+        },
+        {
+          "title": "小县城如何靠AI拿到大结果",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
+        },
+        {
+          "title": "AI用25万页证明黎曼猜想",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370066&amp;topic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
+        },
+        {
+          "title": "吧友吐槽双帝之战剧场版滥用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370137&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
+        },
+        {
+          "title": "【焦点复盘】普涨反弹后市场现放量分歧，个股炸板率超五成，物理AI概念持续火热",
+          "url": "https://www.cls.cn/detail/2543050",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
@@ -41,26 +147,15 @@
           "time_info": "[00时46分 ~ 00时47分]"
         },
         {
-          "title": "消息称两大AI巨头员工拉响警报：模型过于强大，或难以公开发布",
-          "url": "https://www.cls.cn/detail/2543264",
-          "source": "财联社热门",
+          "title": "英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算",
+          "url": "https://wallstreetcn.com/livenews/3204703",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
-        },
-        {
-          "title": "病毒吧曝假deepseek藏银狐木马",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "time_info": "[00时47分 ~ 09时14分]"
         },
         {
           "title": "一图看懂 | 章建平、葛卫东，闯入“AI世界”",
@@ -85,17 +180,6 @@
           "time_info": "[00时46分 ~ 00时47分]"
         },
         {
-          "title": "AI剧 人类消失后的大肥鱼",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%89%A7%20%E4%BA%BA%E7%B1%BB%E6%B6%88%E5%A4%B1%E5%90%8E%E7%9A%84%E5%A4%A7%E8%82%A5%E9%B1%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
-        },
-        {
           "title": "AI证明黎曼猜想将如何影响数学界",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E7%95%8C",
           "source": "bilibili 热搜",
@@ -107,37 +191,15 @@
           "time_info": "[00时46分 ~ 00时47分]"
         },
         {
-          "title": "小县城如何靠AI拿到大结果",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%8E%BF%E5%9F%8E%E5%A6%82%E4%BD%95%E9%9D%A0AI%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C",
-          "source": "bilibili 热搜",
+          "title": "字节跳动称开启AI个人助理产品小豆公开测试",
+          "url": "https://wallstreetcn.com/livenews/3204686",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
-        },
-        {
-          "title": "高志凯称欧洲在人工智能发展中的作用几乎是零，这一观点是否站得住脚？",
-          "url": "https://www.zhihu.com/question/2104246988380418941",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
-        },
-        {
-          "title": "AI用25万页证明黎曼猜想",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370066&amp;topic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "time_info": "[00时47分 ~ 09时14分]"
         },
         {
           "title": "换脸还没消停 “AI融脸”又来了",
@@ -151,43 +213,54 @@
           "time_info": "[00时46分 ~ 00时47分]"
         },
         {
-          "title": "吧友吐槽双帝之战剧场版滥用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370137&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%90%90%E6%A7%BD%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98%E5%89%A7%E5%9C%BA%E7%89%88%E6%BB%A5%E7%94%A8AI",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
-        },
-        {
-          "title": "英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算",
-          "url": "https://wallstreetcn.com/livenews/3204703",
-          "source": "华尔街见闻-快讯",
+          "title": "孩子用 AI 写小说遭父亲质疑非原创与之起争执，你认为用 AI 辅助写作算原创吗？若是你会怎样解答孩子的困惑？",
+          "url": "https://www.zhihu.com/question/2108153080378123763",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "09时14分"
         },
         {
-          "title": "字节跳动称开启AI个人助理产品小豆公开测试",
-          "url": "https://wallstreetcn.com/livenews/3204686",
-          "source": "华尔街见闻-快讯",
+          "title": "知网等平台AI检测被曝算法存疑近一周系统仍未调整：马上测持续追问，平台避而不答",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34548287",
+          "source": "澎湃新闻",
           "ranks": [
-            22
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "09时14分"
+        },
+        {
+          "title": "美AI科技股集体暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8EAI%E7%A7%91%E6%8A%80%E8%82%A1%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "AI模型强大到无法发布了吗",
+          "url": "https://www.toutiao.com/trending/7711875922139287083/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
     {
       "keyword_group": "黄金 珠宝 珍珠 首饰",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
@@ -197,8 +270,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
         },
         {
           "title": "现货黄金日内下跌2.00%，现报3562.53美元/盎司。",
@@ -207,7 +280,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
         },
@@ -216,11 +289,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370172&amp;topic_name=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E7%88%86%E7%81%ABGTA6%E5%8D%B1%E9%99%A9%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
+        },
+        {
+          "title": "黄金矿工全国前十巅峰对决",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E5%85%A8%E5%9B%BD%E5%89%8D%E5%8D%81%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
         },
         {
           "title": "实探深圳水贝①｜工作日人头攒动，有顾客趁低价来选购黄金，有顾客因刚需购入",
@@ -234,15 +320,15 @@
           "time_info": "[00时46分 ~ 00时47分]"
         },
         {
-          "title": "黄金矿工全国前十巅峰对决",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E5%85%A8%E5%9B%BD%E5%89%8D%E5%8D%81%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3",
-          "source": "bilibili 热搜",
+          "title": "现货黄金向下触及3540美元/盎司，日内跌0.45%。",
+          "url": "https://flash.jin10.com/detail/20261125082650331800",
+          "source": "金十数据",
           "ranks": [
-            23
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
@@ -255,11 +341,12 @@
           "url": "https://www.douyin.com/hot/2761426",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
         },
         {
           "title": "这一年抖音里的我是怎么样的人",
@@ -269,8 +356,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 09时14分]"
         }
       ]
     }
