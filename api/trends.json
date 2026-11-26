@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-11-26T04:21:39.039644+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-11-26T11:31:52.020859+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT DeepSeek 大模型 AIGC 文生图 文生视频 视频生成 可灵 即梦 Sora",
-      "match_count": 18,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "AI正在帮忙抓贪官",
+          "url": "https://www.toutiao.com/trending/7712002196388905023/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 11时31分]"
+        },
         {
           "title": "海外研选 | 美银2027年展望：AI投资成美国经济最大变数 美联储料再加息三次",
           "url": "https://www.cls.cn/detail/2544444",
@@ -17,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "美股收盘：道指抹去千点跌幅翻红 AI信用风险持续发酵",
+          "url": "https://www.cls.cn/detail/2544737",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "OpenAI 证明矩阵乘法指数下界为 9/4，如何看待？",
@@ -30,31 +53,114 @@
           "time_info": "04时21分"
         },
         {
-          "title": "AI正在帮忙抓贪官",
-          "url": "https://www.toutiao.com/trending/7712002196388905023/",
-          "source": "今日头条",
+          "title": "AI债务风险骤升：CoreWeave、英伟达、甲骨文等头部企业CDS集体刷新纪录",
+          "url": "https://www.cls.cn/detail/2544725",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "钱一栋｜AI步步紧逼，价值判断是人类最后的护城河吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34529993",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "11时31分"
         },
         {
           "title": "谷歌挂出6篇AI生成数学论文",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%8C%82%E5%87%BA6%E7%AF%87AI%E7%94%9F%E6%88%90%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87",
           "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 11时31分]"
+        },
+        {
+          "title": "英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算",
+          "url": "https://wallstreetcn.com/livenews/3204703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 11时31分]"
+        },
+        {
+          "title": "AI世代｜第二层无明：机器知道，人类相信",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34539623",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 11时31分]"
+        },
+        {
+          "title": "李斌、何小鹏羊城隔空“对话”：物理AI正在颠覆汽车业",
+          "url": "https://www.cls.cn/detail/2544596",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 11时31分]"
+        },
+        {
+          "title": "病毒吧曝假deepseek藏银狐木马",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 11时31分]"
+        },
+        {
+          "title": "大肥鱼挑战AI类魂BOSS",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 11时31分]"
+        },
+        {
+          "title": "字节跳动称开启AI个人助理产品小豆公开测试",
+          "url": "https://wallstreetcn.com/livenews/3204686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 11时31分]"
+        },
+        {
+          "title": "AI用25万页证明黎曼猜想",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370066&amp;topic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 11时31分]"
+        },
+        {
+          "title": "钱一栋｜AI步步紧逼，价值判断是人类最后的护城河吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34529993",
+          "source": "澎湃新闻",
           "ranks": [
             7
           ],
@@ -74,48 +180,15 @@
           "time_info": "04时21分"
         },
         {
-          "title": "英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算",
-          "url": "https://wallstreetcn.com/livenews/3204703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "AI世代｜第二层无明：机器知道，人类相信",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34539623",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "李斌、何小鹏羊城隔空“对话”：物理AI正在颠覆汽车业",
-          "url": "https://www.cls.cn/detail/2544596",
+          "title": "美国三季度GDP增速大幅上修至4.3% AI投资成经济增长核心引擎",
+          "url": "https://www.cls.cn/detail/2544647",
           "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "病毒吧曝假deepseek藏银狐木马",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
-          "source": "贴吧",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "11时31分"
         },
         {
           "title": "豆包和 DeepSeek 哪个好用？",
@@ -129,6 +202,28 @@
           "time_info": "04时21分"
         },
         {
+          "title": "AI正在帮忙抓贪官",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E5%B8%AE%E5%BF%99%E6%8A%93%E8%B4%AA%E5%AE%98",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "梁文锋 DeepSeek",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%20DeepSeek&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "如何评价 Sand.ai 发布的新一代视频生成模型 MAGI-2，实际体验如何？",
           "url": "https://www.zhihu.com/question/2108835231264460864",
           "source": "知乎",
@@ -140,15 +235,37 @@
           "time_info": "04时21分"
         },
         {
-          "title": "大肥鱼挑战AI类魂BOSS",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS",
+          "title": "怎么看 Anthropic 最新发现，直接研究大模型神经元更有价值，这会改变 AI 可解释性方向吗？",
+          "url": "https://www.zhihu.com/question/2108862705461417165",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "黄仁勋回归能否拯救美国AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E8%83%BD%E5%90%A6%E6%8B%AF%E6%95%91%E7%BE%8E%E5%9B%BDAI%E6%B3%A1%E6%B2%AB",
           "source": "bilibili 热搜",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "11时31分"
+        },
+        {
+          "title": "美术生不是被AI干掉的",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E6%9C%AF%E7%94%9F%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E5%B9%B2%E6%8E%89%E7%9A%84&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "如何看待黑客放出《GTA 6》Xbox 版核心文件后，民间靠 AI 不到 24 小时就搬上 PC 并成功进入实机？",
@@ -162,26 +279,15 @@
           "time_info": "04时21分"
         },
         {
-          "title": "字节跳动称开启AI个人助理产品小豆公开测试",
-          "url": "https://wallstreetcn.com/livenews/3204686",
-          "source": "华尔街见闻-快讯",
+          "title": "被戏称为「北美大豆包」的谷歌杀回 AI 牌桌中央，这次逆袭的核心路径是什么？",
+          "url": "https://www.zhihu.com/question/2106715996711142004",
+          "source": "知乎",
           "ranks": [
-            22
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "AI用25万页证明黎曼猜想",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370066&amp;topic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "11时31分"
         },
         {
           "title": "OpenAI发布九篇数学论文",
@@ -209,8 +315,19 @@
     },
     {
       "keyword_group": "黄金 珠宝 珍珠 首饰",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
+          "url": "https://wallstreetcn.com/articles/3786472",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 11时31分]"
+        },
         {
           "title": "金价大跌金店挤爆 抢黄金的人在抢啥",
           "url": "https://www.toutiao.com/trending/7712119512744594985/",
@@ -234,15 +351,27 @@
           "time_info": "04时21分"
         },
         {
-          "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
-          "url": "https://wallstreetcn.com/articles/3786472",
-          "source": "华尔街见闻",
+          "title": "现货黄金下破3500美元、白银失守40美元，什么原因？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34558960",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "黄金矿工爆火GTA6危险了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370172&amp;topic_name=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E7%88%86%E7%81%ABGTA6%E5%8D%B1%E9%99%A9%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 11时31分]"
         },
         {
           "title": "现货黄金反弹130美元转涨 美股金银走出超级V型行情",
@@ -256,15 +385,15 @@
           "time_info": "04时21分"
         },
         {
-          "title": "黄金矿工爆火GTA6危险了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370172&amp;topic_name=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E7%88%86%E7%81%ABGTA6%E5%8D%B1%E9%99%A9%E4%BA%86",
-          "source": "贴吧",
+          "title": "华侨银行新增一座黄金金库，以提升实物黄金业务能力",
+          "url": "https://flash.jin10.com/detail/20261126111239313800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "11时31分"
         },
         {
           "title": "黄金价格下跌迎2026年最低价",
@@ -287,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "黄金原油比特币齐跌意味着什么",
+          "url": "https://www.toutiao.com/trending/7711207000918655027/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     }
