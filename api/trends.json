@@ -1,12 +1,68 @@
 {
-  "generated_at": "2026-11-27T06:44:21.492078+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-11-27T12:42:04.538293+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT DeepSeek 大模型 AIGC 文生图 文生视频 视频生成 可灵 即梦 Sora",
-      "match_count": 8,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "【早报】美股休市，欧洲股市全线反弹；广东发布重要规划！事关算力发展；英伟达暂停向东南亚四国交付AI服务器",
+          "url": "https://www.cls.cn/detail/2545997",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "DeepSeek上线价格计算功能",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%8A%E7%BA%BF%E4%BB%B7%E6%A0%BC%E8%AE%A1%E7%AE%97%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "病毒吧曝假deepseek藏银狐木马",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 12时42分]"
+        },
+        {
+          "title": "美股AI风向变了：软件>硬件？",
+          "url": "https://www.cls.cn/detail/2546218",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 网页和 App 端开始展示消耗额度？",
+          "url": "https://www.zhihu.com/question/2109411707877695723",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
         {
           "title": "英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算",
           "url": "https://wallstreetcn.com/livenews/3204703",
@@ -15,8 +71,41 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 12时42分]"
+        },
+        {
+          "title": "OpenAI发布重量级物理论文",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E9%87%8D%E9%87%8F%E7%BA%A7%E7%89%A9%E7%90%86%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "字节跳动称开启AI个人助理产品小豆公开测试",
+          "url": "https://wallstreetcn.com/livenews/3204686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 12时42分]"
+        },
+        {
+          "title": "AI交易担忧仍未消退 外资11月净卖出台股创纪录",
+          "url": "https://flash.jin10.com/detail/20261127121519843800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时44分"
+          "time_info": "12时42分"
         },
         {
           "title": "曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么？",
@@ -41,26 +130,15 @@
           "time_info": "06时44分"
         },
         {
-          "title": "病毒吧曝假deepseek藏银狐木马",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
-          "source": "贴吧",
+          "title": "彩讯股份与万格智元达成战略合作 加速端云协同AI规模化落地",
+          "url": "https://flash.jin10.com/detail/20261127120314586800",
+          "source": "金十数据",
           "ranks": [
-            18
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "字节跳动称开启AI个人助理产品小豆公开测试",
-          "url": "https://wallstreetcn.com/livenews/3204686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
+          "time_info": "12时42分"
         },
         {
           "title": "大肥鱼挑战AI类魂BOSS",
@@ -72,6 +150,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "风投机构掀起“弃旧追新”潮：老基金折价甩卖，资金涌向AI初创企业",
+          "url": "https://flash.jin10.com/detail/20261127114752340800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "AI投资情绪回暖推动反弹 亚洲新兴市场股市有望录得周涨幅",
+          "url": "https://flash.jin10.com/detail/20261127114654142800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "AI用25万页证明黎曼猜想",
@@ -94,12 +194,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-11-27）",
+          "url": "https://flash.jin10.com/detail/20261127114616913800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
     {
       "keyword_group": "黄金 珠宝 珍珠 首饰",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
@@ -109,19 +220,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 12时42分]"
         },
         {
           "title": "黄金矿工爆火GTA6危险了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370172&amp;topic_name=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E7%88%86%E7%81%ABGTA6%E5%8D%B1%E9%99%A9%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 12时42分]"
         },
         {
           "title": "买5毛钱糖果中1克黄金 厂家回应",
@@ -133,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "金十图示：2026年11月27日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20261127115303358800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "坚守四年的黄金多头离场",
