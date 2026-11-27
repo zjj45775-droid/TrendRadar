@@ -1,434 +1,166 @@
 {
-  "generated_at": "2026-11-27T22:33:06.183573+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-11-28T07:07:08.715264+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT DeepSeek 大模型 AIGC 文生图 文生视频 视频生成 可灵 即梦 Sora",
-      "match_count": 28,
+      "match_count": 10,
       "titles": [
         {
-          "title": "【早报】美股休市，欧洲股市全线反弹；广东发布重要规划！事关算力发展；英伟达暂停向东南亚四国交付AI服务器",
-          "url": "https://www.cls.cn/detail/2545997",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
-        },
-        {
-          "title": "DeepSeek上线价格计算功能",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%8A%E7%BA%BF%E4%BB%B7%E6%A0%BC%E8%AE%A1%E7%AE%97%E5%8A%9F%E8%83%BD",
+          "title": "鉴定AI在物理领域的新成就",
+          "url": "https://search.bilibili.com/all?keyword=%E9%89%B4%E5%AE%9AAI%E5%9C%A8%E7%89%A9%E7%90%86%E9%A2%86%E5%9F%9F%E7%9A%84%E6%96%B0%E6%88%90%E5%B0%B1",
           "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
+          "time_info": "[07时06分 ~ 07时07分]"
         },
         {
-          "title": "新质生产力大咖说AI季",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%A4%A7%E5%92%96%E8%AF%B4AI%E5%AD%A3%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 22时33分]"
-        },
-        {
-          "title": "新质生产力大咖说AI季",
-          "url": "https://www.douyin.com/hot/2768382",
-          "source": "抖音",
+          "title": "美团电话会：王兴复盘美团优选“重大错误” ，外卖竞争迎来拐点、四季度UE将明显改善，明年AI资本开支将下降",
+          "url": "https://wallstreetcn.com/articles/3786861",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时32分 ~ 22时33分]"
-        },
-        {
-          "title": "病毒吧曝假deepseek藏银狐木马",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时44分 ~ 22时33分]"
-        },
-        {
-          "title": "英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算",
-          "url": "https://wallstreetcn.com/livenews/3204703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 22时33分]"
-        },
-        {
-          "title": "字节跳动称开启AI个人助理产品小豆公开测试",
-          "url": "https://wallstreetcn.com/livenews/3204686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 22时33分]"
-        },
-        {
-          "title": "美股AI风向变了：软件>硬件？",
-          "url": "https://www.cls.cn/detail/2546218",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
+          "time_info": "[07时06分 ~ 07时07分]"
         },
         {
           "title": "吧友反问AI是否懂人味",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370365&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%8F%8D%E9%97%AEAI%E6%98%AF%E5%90%A6%E6%87%82%E4%BA%BA%E5%91%B3",
           "source": "贴吧",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时32分 ~ 22时33分]"
+          "time_info": "[07时06分 ~ 07时07分]"
         },
         {
-          "title": "如何评价 DeepSeek 网页和 App 端开始展示消耗额度？",
-          "url": "https://www.zhihu.com/question/2109411707877695723",
-          "source": "知乎",
+          "title": "美股收盘：AI交易强势反弹 纳指涨超2% Anthropic涨近11%",
+          "url": "https://www.cls.cn/detail/2547125",
+          "source": "财联社热门",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
+          "time_info": "[07时06分 ~ 07时07分]"
         },
         {
-          "title": "OpenAI发布重量级物理论文",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E9%87%8D%E9%87%8F%E7%BA%A7%E7%89%A9%E7%90%86%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
-        },
-        {
-          "title": "AI包装的烂奇迹能算原创吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%85%E8%A3%85%E7%9A%84%E7%83%82%E5%A5%87%E8%BF%B9%E8%83%BD%E7%AE%97%E5%8E%9F%E5%88%9B%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "闸门已开：AI失控离我们有多远",
+          "url": "https://www.baidu.com/s?wd=%E9%97%B8%E9%97%A8%E5%B7%B2%E5%BC%80%EF%BC%9AAI%E5%A4%B1%E6%8E%A7%E7%A6%BB%E6%88%91%E4%BB%AC%E6%9C%89%E5%A4%9A%E8%BF%9C",
+          "source": "百度热搜",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时32分 ~ 22时33分]"
+          "time_info": "[07时06分 ~ 07时07分]"
         },
         {
           "title": "国产大模型集体进军AI4S：年内融资突破200亿元，大模型从“会聊天”转向“做科研”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_34547146",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时32分 ~ 22时33分]"
+          "time_info": "[07时06分 ~ 07时07分]"
         },
         {
-          "title": "DeepSeek开始“打表计费”了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%A7%8B%E2%80%9C%E6%89%93%E8%A1%A8%E8%AE%A1%E8%B4%B9%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 22时33分]"
-        },
-        {
-          "title": "《两京十五日》里的小演员是AI",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E9%87%8C%E7%9A%84%E5%B0%8F%E6%BC%94%E5%91%98%E6%98%AFAI",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 22时33分]"
-        },
-        {
-          "title": "普京与印度AI领域天才少年自拍",
-          "url": "https://www.toutiao.com/trending/7712748822061125170/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 22时33分]"
-        },
-        {
-          "title": "AI交易担忧仍未消退 外资11月净卖出台股创纪录",
-          "url": "https://flash.jin10.com/detail/20261127121519843800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "曝梁文锋身家攀升至 550 亿美元，成全球最富 AI 模型创始人，是真的吗？意味着什么？",
-          "url": "https://www.zhihu.com/question/2109197560539604552",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "“iPod之父”：OpenAI打造AI硬件意在突破苹果数据限制",
-          "url": "https://www.cls.cn/detail/2545893",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "彩讯股份与万格智元达成战略合作 加速端云协同AI规模化落地",
-          "url": "https://flash.jin10.com/detail/20261127120314586800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "一周热榜精选：全球AI资产经历情绪过山车！贵金属深跌后能否稳住？",
-          "url": "https://flash.jin10.com/detail/20261127213056212800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "大肥鱼挑战AI类魂BOSS",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E6%8C%91%E6%88%98AI%E7%B1%BB%E9%AD%82BOSS",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "美团：与微信AI助手小微试点按计划推进",
-          "url": "https://flash.jin10.com/detail/20261127212736914800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "风投机构掀起“弃旧追新”潮：老基金折价甩卖，资金涌向AI初创企业",
-          "url": "https://flash.jin10.com/detail/20261127114752340800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "AI投资情绪回暖推动反弹 亚洲新兴市场股市有望录得周涨幅",
-          "url": "https://flash.jin10.com/detail/20261127114654142800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "AI用25万页证明黎曼猜想",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370066&amp;topic_name=AI%E7%94%A825%E4%B8%87%E9%A1%B5%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3",
+          "title": "病毒吧曝假deepseek藏银狐木马",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
           "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "外国老哥装傻把AI逼到黑化",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%80%81%E5%93%A5%E8%A3%85%E5%82%BB%E6%8A%8AAI%E9%80%BC%E5%88%B0%E9%BB%91%E5%8C%96",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-11-27）",
-          "url": "https://flash.jin10.com/detail/20261127114616913800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 珠宝 珍珠 首饰",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
-          "url": "https://wallstreetcn.com/articles/3786472",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时44分 ~ 22时33分]"
-        },
-        {
-          "title": "美股剧烈震荡堪比互联网泡沫时期，市场正迎来“黄金窗口”？",
-          "url": "https://flash.jin10.com/detail/20261127220101371800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "黄金矿工爆火GTA6危险了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370172&amp;topic_name=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E7%88%86%E7%81%ABGTA6%E5%8D%B1%E9%99%A9%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时44分 ~ 22时33分]"
-        },
-        {
-          "title": "黄金挑战3680关口！多头能否更进一步？空头有可能卷土重来？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20261127214128765800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "买5毛钱糖果中1克黄金 厂家回应",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%B05%E6%AF%9B%E9%92%B1%E7%B3%96%E6%9E%9C%E4%B8%AD1%E5%85%8B%E9%BB%84%E9%87%91+%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "金十图示：2026年11月27日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20261127115303358800",
-          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
         },
         {
-          "title": "黄金反弹见顶了吗？震荡行情如何高抛低吸？阻力在哪里？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20261127212710413800",
+          "title": "Anthropic股价重回IPO发行价上方，AI股反弹提振市场",
+          "url": "https://flash.jin10.com/detail/20261128052007715800",
           "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "俄总统特别代表德米特里耶夫：德国和英国的能源系统实际上已被摧毁。 德国放弃了核能发电，从而实际上扼杀了其发展人工智能的潜力。 在英国，人均发电量比1970年还少。",
+          "url": "https://wallstreetcn.com/livenews/3207265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "AI股票遭抛售之际，彭博美元指数有望创2024年以来最长月度连涨纪录",
+          "url": "https://wallstreetcn.com/livenews/3207255",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "坚守四年的黄金多头离场",
-          "url": "https://www.toutiao.com/trending/7711912967893189129/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时44分"
+          "time_info": "07时07分"
         }
       ]
     },
     {
       "keyword_group": "抖音 快手 小红书 视频号",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "U17国少在抖音庆祝世少赛出线",
+          "url": "https://www.douyin.com/hot/2768389",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
+        },
         {
           "title": "快手第三季度营收 316 亿元，净利润 7.9 亿元，日活 4.17 亿，如何解读这份财报？",
           "url": "https://www.zhihu.com/question/2106815239039751997",
           "source": "知乎",
           "ranks": [
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时32分 ~ 22时33分]"
+          "time_info": "[07时06分 ~ 07时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 珠宝 珍珠 首饰",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金矿工爆火GTA6危险了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370172&amp;topic_name=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E7%88%86%E7%81%ABGTA6%E5%8D%B1%E9%99%A9%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
         }
       ]
     }
