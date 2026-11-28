@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-11-28T07:07:08.715264+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-11-28T13:41:51.736916+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT DeepSeek 大模型 AIGC 文生图 文生视频 视频生成 可灵 即梦 Sora",
-      "match_count": 10,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "鉴定AI在物理领域的新成就",
-          "url": "https://search.bilibili.com/all?keyword=%E9%89%B4%E5%AE%9AAI%E5%9C%A8%E7%89%A9%E7%90%86%E9%A2%86%E5%9F%9F%E7%9A%84%E6%96%B0%E6%88%90%E5%B0%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 07时07分]"
-        },
         {
           "title": "美团电话会：王兴复盘美团优选“重大错误” ，外卖竞争迎来拐点、四季度UE将明显改善，明年AI资本开支将下降",
           "url": "https://wallstreetcn.com/articles/3786861",
@@ -26,30 +15,89 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 07时07分]"
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 13时41分]"
         },
         {
-          "title": "吧友反问AI是否懂人味",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370365&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%8F%8D%E9%97%AEAI%E6%98%AF%E5%90%A6%E6%87%82%E4%BA%BA%E5%91%B3",
-          "source": "贴吧",
+          "title": "据韩联社：韩国总统李在明在江原道数据中心启用仪式上表示，将致力于在人工智能全球竞赛中奋勇争先。",
+          "url": "https://flash.jin10.com/detail/20261128130326428800",
+          "source": "金十数据",
           "ranks": [
-            7
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "人类数学家联手解读黎曼猜想AI证明",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E6%95%B0%E5%AD%A6%E5%AE%B6%E8%81%94%E6%89%8B%E8%A7%A3%E8%AF%BB%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3AI%E8%AF%81%E6%98%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "模特七海发博表示 「我的脸已经成 AI 短剧里的赛博恶役」，AI 融脸为什么维权难？",
+          "url": "https://www.zhihu.com/question/2109242936701478494",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "鉴定AI在物理领域的新成就",
+          "url": "https://search.bilibili.com/all?keyword=%E9%89%B4%E5%AE%9AAI%E5%9C%A8%E7%89%A9%E7%90%86%E9%A2%86%E5%9F%9F%E7%9A%84%E6%96%B0%E6%88%90%E5%B0%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 07时07分]"
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 13时41分]"
         },
         {
           "title": "美股收盘：AI交易强势反弹 纳指涨超2% Anthropic涨近11%",
           "url": "https://www.cls.cn/detail/2547125",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 07时07分]"
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 13时41分]"
+        },
+        {
+          "title": "吧友反问AI是否懂人味",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370365&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%8F%8D%E9%97%AEAI%E6%98%AF%E5%90%A6%E6%87%82%E4%BA%BA%E5%91%B3",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 13时41分]"
+        },
+        {
+          "title": "病毒吧曝假deepseek藏银狐木马",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 13时41分]"
         },
         {
           "title": "闸门已开：AI失控离我们有多远",
@@ -74,26 +122,81 @@
           "time_info": "[07时06分 ~ 07时07分]"
         },
         {
-          "title": "病毒吧曝假deepseek藏银狐木马",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370146&amp;topic_name=%E7%97%85%E6%AF%92%E5%90%A7%E6%9B%9D%E5%81%87deepseek%E8%97%8F%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 07时07分]"
-        },
-        {
           "title": "Anthropic股价重回IPO发行价上方，AI股反弹提振市场",
           "url": "https://flash.jin10.com/detail/20261128052007715800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "这波AI大崩盘，为何中国资金最先嗅到风险，随后才是亚洲，最后才到华尔街和硅谷？",
+          "url": "https://wallstreetcn.com/articles/3786834",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "OpenAI反诉苹果窃取商业秘密",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%8D%E8%AF%89%E8%8B%B9%E6%9E%9C%E7%AA%83%E5%8F%96%E5%95%86%E4%B8%9A%E7%A7%98%E5%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "如何评价冯骥在《后 AI 时代最重要的问题》一文中的思考和想法？",
+          "url": "https://www.zhihu.com/question/2109705664087816135",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "科技股分析师Dan Ives：尽管黄仁勋准备下周在国会山作证，但英伟达的多年AI增长逻辑仍然成立。预计黄仁勋的国会听证会前会出现一些短期波动，但仍维持对该股的强于大盘评级和250美元目标价。",
+          "url": "https://flash.jin10.com/detail/20261128110040986800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "据日经新闻：日本防卫省前一天发布了《防卫AI愿景》，包括新设一个统一管理AI所需数据的机构，将AI应用于自卫队执行任务。",
+          "url": "https://flash.jin10.com/detail/20261128110015878800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "冯骥后AI时代最重要的问题",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%AF%E9%AA%A5%E5%90%8EAI%E6%97%B6%E4%BB%A3%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E9%97%AE%E9%A2%98&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "俄总统特别代表德米特里耶夫：德国和英国的能源系统实际上已被摧毁。 德国放弃了核能发电，从而实际上扼杀了其发展人工智能的潜力。 在英国，人均发电量比1970年还少。",
@@ -102,7 +205,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -113,16 +216,89 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "我的脸被AI融走了 谁之责",
+          "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E8%84%B8%E8%A2%ABAI%E8%9E%8D%E8%B5%B0%E4%BA%86+%E8%B0%81%E4%B9%8B%E8%B4%A3",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 珠宝 珍珠 首饰",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【早报】国常会：加力发挥“国家队”稳市作用；深夜，美股存储股全线大爆发；黄金、白银，同步反弹",
+          "url": "https://www.cls.cn/detail/2547143",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "黄金矿工爆火GTA6危险了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370172&amp;topic_name=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E7%88%86%E7%81%ABGTA6%E5%8D%B1%E9%99%A9%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 13时41分]"
+        },
+        {
+          "title": "亚洲群起“救市”，信心重于黄金",
+          "url": "https://wallstreetcn.com/articles/3786830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "从超涨到超跌：白银暴跌近七成后，反弹将强于黄金？",
+          "url": "https://www.cls.cn/detail/2547113",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         }
       ]
     },
     {
       "keyword_group": "抖音 快手 小红书 视频号",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "如何看待济南医保官方视频号工作人员误以为直播结束，骂咨询者脑子有病，医保局回应称已批评教育并要求道歉？",
+          "url": "https://www.zhihu.com/question/2109655670127605450",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
         {
           "title": "U17国少在抖音庆祝世少赛出线",
           "url": "https://www.douyin.com/hot/2768389",
@@ -140,23 +316,6 @@
           "source": "知乎",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 07时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 珠宝 珍珠 首饰",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金矿工爆火GTA6危险了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370172&amp;topic_name=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E7%88%86%E7%81%ABGTA6%E5%8D%B1%E9%99%A9%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
