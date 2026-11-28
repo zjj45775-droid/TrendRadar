@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-28T13:41:51.736916+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-11-28T22:50:28.479873+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 ChatGPT DeepSeek 大模型 AIGC 文生图 文生视频 视频生成 可灵 即梦 Sora",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "美团电话会：王兴复盘美团优选“重大错误” ，外卖竞争迎来拐点、四季度UE将明显改善，明年AI资本开支将下降",
@@ -19,13 +19,37 @@
           "time_info": "[07时06分 ~ 13时41分]"
         },
         {
+          "title": "美股收盘：AI交易强势反弹 纳指涨超2% Anthropic涨近11%",
+          "url": "https://www.cls.cn/detail/2547125",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 22时50分]"
+        },
+        {
+          "title": "怎么看 DeepSeek 将多个核心算子优化至华为昇腾 950 的硬件极限，这对国产算力意味着什么？",
+          "url": "https://www.zhihu.com/question/2110027159284863346",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "据韩联社：韩国总统李在明在江原道数据中心启用仪式上表示，将致力于在人工智能全球竞赛中奋勇争先。",
           "url": "https://flash.jin10.com/detail/20261128130326428800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -36,9 +60,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "安徽、上海等地借助 AI 抓贪官，具体是怎么抓的？有哪些优点和局限性？该如何应对不断变化的作案手法？",
+          "url": "https://www.zhihu.com/question/2109199188017635797",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "模特七海发博表示 「我的脸已经成 AI 短剧里的赛博恶役」，AI 融脸为什么维权难？",
@@ -47,7 +82,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -64,28 +99,17 @@
           "time_info": "[07时06分 ~ 13时41分]"
         },
         {
-          "title": "美股收盘：AI交易强势反弹 纳指涨超2% Anthropic涨近11%",
-          "url": "https://www.cls.cn/detail/2547125",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 13时41分]"
-        },
-        {
           "title": "吧友反问AI是否懂人味",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28370365&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%8F%8D%E9%97%AEAI%E6%98%AF%E5%90%A6%E6%87%82%E4%BA%BA%E5%91%B3",
           "source": "贴吧",
           "ranks": [
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 22时50分]"
         },
         {
           "title": "病毒吧曝假deepseek藏银狐木马",
@@ -93,11 +117,12 @@
           "source": "贴吧",
           "ranks": [
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 22时50分]"
         },
         {
           "title": "闸门已开：AI失控离我们有多远",
@@ -139,7 +164,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -150,9 +175,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "职业生涯最大清仓之一后，高盛对冲基金主管警告：AI最赚钱的时代或已结束！",
+          "url": "https://wallstreetcn.com/articles/3786895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "如何评价冯骥在《后 AI 时代最重要的问题》一文中的思考和想法？",
@@ -161,7 +197,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -172,7 +208,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -183,9 +219,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "小红书：有用户借短剧、AI动画热度做“歪生意”，已处置违规信息8万条",
+          "url": "https://wallstreetcn.com/livenews/3207362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美国黑五线上销售额超130亿美元，AI导流同比翻倍",
+          "url": "https://flash.jin10.com/detail/20261128213221142800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "冯骥后AI时代最重要的问题",
@@ -194,7 +252,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -208,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "Adobe Analytics：昨日美国零售网站来自AI的流量（以消费者点击AI提供的链接衡量）同比增长100%。",
+          "url": "https://flash.jin10.com/detail/20261128212431015800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "AI股票遭抛售之际，彭博美元指数有望创2024年以来最长月度连涨纪录",
@@ -227,26 +296,71 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "《黑神话：悟空》制作人冯骥发长文谈“后AI时代”",
+          "url": "https://wallstreetcn.com/livenews/3207348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
     {
       "keyword_group": "黄金 珠宝 珍珠 首饰",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】国常会：加力发挥“国家队”稳市作用；深夜，美股存储股全线大爆发；黄金、白银，同步反弹",
           "url": "https://www.cls.cn/detail/2547143",
           "source": "财联社热门",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 22时50分]"
+        },
+        {
+          "title": "女子将40万黄金放车顶开一路忘拿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%8640%E4%B8%87%E9%BB%84%E9%87%91%E6%94%BE%E8%BD%A6%E9%A1%B6%E5%BC%80%E4%B8%80%E8%B7%AF%E5%BF%98%E6%8B%BF%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "香港：将于明年首季正式启用“香港黄金中央清算系统”",
+          "url": "https://wallstreetcn.com/livenews/3207378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时41分"
+          "time_info": "22时50分"
+        },
+        {
+          "title": "女子把40万黄金饰品忘车顶开了一路",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8A%8A40%E4%B8%87%E9%BB%84%E9%87%91%E9%A5%B0%E5%93%81%E5%BF%98%E8%BD%A6%E9%A1%B6%E5%BC%80%E4%BA%86%E4%B8%80%E8%B7%AF",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "黄金矿工爆火GTA6危险了",
@@ -254,11 +368,24 @@
           "source": "贴吧",
           "ranks": [
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 22时50分]"
+        },
+        {
+          "title": "从超涨到超跌：白银暴跌近七成后，反弹将强于黄金？",
+          "url": "https://www.cls.cn/detail/2547113",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 22时50分]"
         },
         {
           "title": "亚洲群起“救市”，信心重于黄金",
@@ -267,18 +394,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "从超涨到超跌：白银暴跌近七成后，反弹将强于黄金？",
-          "url": "https://www.cls.cn/detail/2547113",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         }
@@ -293,11 +409,12 @@
           "url": "https://www.zhihu.com/question/2109655670127605450",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 22时50分]"
         },
         {
           "title": "U17国少在抖音庆祝世少赛出线",
